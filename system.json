@@ -1,0 +1,27 @@
+{
+  "id": "hiraeth",
+  "title": "Hiraeth",
+  "Description": "A system for playing Hiraeth",
+  "author": "Jason Statt",
+  "version": 0.01,
+  "compatibility": {
+    "minimum": 13,
+    "verified": 13
+  },
+  "esmodules": [
+    "hiraeth.js"
+  ],
+  "styles": [
+    "hiraeth.css"
+  ],
+  "packs": [
+
+  ],
+  "languages": [
+
+  ],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "Wounds",
+  "initiative": "@speed",
+}
