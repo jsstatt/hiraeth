@@ -1,9 +1,9 @@
 {
   "id": "hiraeth",
   "title": "Hiraeth",
-  "Description": "A system for playing Hiraeth",
+  "description": "A system for playing Hiraeth",
   "author": "Jason Statt",
-  "version": 0.01,
+  "version": "0.01",
   "compatibility": {
     "minimum": 13,
     "verified": 13
